@@ -1,4 +1,5 @@
-## Computing 470 - Webbased Information Systems - Assignment 1
+## Web-based Information Systems (CMPT470) Assignment 1
+http://www.sfu.ca/outlines.html?2020/fall/cmpt/470/d100
 
 ### Showcase
 
