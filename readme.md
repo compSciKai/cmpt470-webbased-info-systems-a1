@@ -1,3 +1,7 @@
+## Computing 470 - Webbased Information Systems - Assignment 1
+
+### Showcase
+
 ![](a1.gif)
 
 This assignment is intended to get us familiar with HTML and CSS. You may not use any HTML, CSS preprocessors or libraries to complete this assignment.
